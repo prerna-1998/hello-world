@@ -1,2 +1,3 @@
 # hello-world
-just a beginning!!
+just a beginning!
+cool!
